@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta1/constraint-layout-solver-1.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac4965ed6786f8d63f1960a996a6be667064cd28">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta1_8eb2760219f2790cde19eb012c0e68a9e7b1d70e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4309358c51c669e314a3526f88f688c54d1727a8">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4533ee6fa97f29cb0c39fc8644ddedbfe48ddfa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_eb483289f4fd81a914b4e99197131f320324b153/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_9396c1b1c7cb3edbd66a98efc77fbf199b7f524f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_66beeaa7a500cc77c3e107feaadc6de5fe1bb3d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_6219eab0510860361a0a845d992ff03190923a0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0019ffec23d5a6d85bd89f67a7b990eb069089e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_1143dabb89c4df783227efef8f3ea271c72d8cdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_3662861f1dde3e4d0cbdc6a25d407e5172ab929b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f87c884223226ef03a4f53e6ef77959f98c380f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_465d2a25121ead0b1c36b043872b0ed86c679138/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_0e6bad25cd904be3f6ec2ddda298473e3eef9f52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_0ddcd66f924bfe1b0a2544c92f1fa270aea4147d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1bee44b2c3f50541813aa9e8bd2db013f73f30ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c4ad8321cff5fa475cb39daf387b3cb581aab17f">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta1_0af90452e794c56e9ab28c86ffe31861b075d084/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_8c611b0c5c8f63445f2dd21df9c93df796014996/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_7f3a117049dda342af1e03782cdc2d674e2e9f2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ff2b19358e662de2adb08cc76a63fe6f74fa069c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_6d608f45985cce05a46bc74a687eee478dee65de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5fe546a414e0a15a348435aeb75ea587b94c6bb9">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1cfa8da55a836a480e56eb982b788c385b08b014/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0392495a60deaa4aec658674a1c126c944041dfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ead301f649bf03a9643cfdbbef93128305c541bd/classes.dex" />
+    </item>
+
+</items>

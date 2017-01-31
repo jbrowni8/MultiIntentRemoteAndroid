@@ -1,0 +1,7 @@
+#Wed Oct 26 19:47:04 EDT 2016
+base.0=/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1cfa8da55a836a480e56eb982b788c385b08b014
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4533ee6fa97f29cb0c39fc8644ddedbfe48ddfa0/classes.dex
+base.1=/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4533ee6fa97f29cb0c39fc8644ddedbfe48ddfa0
+file.0=/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1cfa8da55a836a480e56eb982b788c385b08b014/classes.dex

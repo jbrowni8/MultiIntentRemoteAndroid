@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="13507934389019"
+    token="-8077739471118322638"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="106" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="29" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="108288985571"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="3950916670491"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4533ee6fa97f29cb0c39fc8644ddedbfe48ddfa0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0392495a60deaa4aec658674a1c126c944041dfd/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_eb483289f4fd81a914b4e99197131f320324b153/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta1_0af90452e794c56e9ab28c86ffe31861b075d084/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0019ffec23d5a6d85bd89f67a7b990eb069089e3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_7f3a117049dda342af1e03782cdc2d674e2e9f2b/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1cfa8da55a836a480e56eb982b788c385b08b014/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_66beeaa7a500cc77c3e107feaadc6de5fe1bb3d8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_6219eab0510860361a0a845d992ff03190923a0f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_1143dabb89c4df783227efef8f3ea271c72d8cdd/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_0e6bad25cd904be3f6ec2ddda298473e3eef9f52/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1bee44b2c3f50541813aa9e8bd2db013f73f30ae/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ff2b19358e662de2adb08cc76a63fe6f74fa069c/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_6d608f45985cce05a46bc74a687eee478dee65de/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_8c611b0c5c8f63445f2dd21df9c93df796014996/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ead301f649bf03a9643cfdbbef93128305c541bd/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f87c884223226ef03a4f53e6ef77959f98c380f7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_9396c1b1c7cb3edbd66a98efc77fbf199b7f524f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_465d2a25121ead0b1c36b043872b0ed86c679138/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_0ddcd66f924bfe1b0a2544c92f1fa270aea4147d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta1_8eb2760219f2790cde19eb012c0e68a9e7b1d70e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_3662861f1dde3e4d0cbdc6a25d407e5172ab929b/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="13507934389019"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/Browning/iCloud Drive (Archive)/Documents/DePaulUniversity/Autumn2016/AndroidWorkbench/BrowningJamesProgrammingAssignment4/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

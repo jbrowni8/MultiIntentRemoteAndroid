@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_dvr"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="csc472.project2.browningjamesprogrammingassignment4.DVRActivity">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true">
+
+        <android.support.constraint.ConstraintLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginStart="1dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            android:layout_marginEnd="1dp"
+            app:layout_constraintRight_toRightOf="parent"
+            android:background="#f0d681"
+            android:id="@+id/constraintLayout">
+
+            <TextView
+                android:text="@string/myDVR"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/MyDVR"
+                android:layout_row="3"
+                android:layout_column="0"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                android:layout_marginStart="5dp"
+                android:textSize="30sp"
+                android:textColor="@android:color/background_dark"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintHorizontal_bias="0.05" />
+
+            <TextView
+                android:text="@string/powerDVR"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView5"
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_marginTop="25dp"
+                android:layout_marginStart="20dp"
+                app:layout_constraintLeft_toRightOf="@+id/MyDVR"
+                app:layout_constraintBottom_toTopOf="@+id/textView7"
+                android:layout_marginBottom="8dp"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintHorizontal_bias="0.26" />
+
+            <TextView
+                android:text="@string/stateDVR"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView7"
+                android:layout_marginStart="20dp"
+                app:layout_constraintLeft_toRightOf="@+id/MyDVR"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:layout_marginBottom="25dp"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintHorizontal_bias="0.4" />
+
+            <TextView
+                android:text="@string/powerDVRLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView8"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="10dp" />
+
+            <TextView
+                android:text="@string/stateDVRLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                android:layout_marginTop="8dp"
+                app:layout_constraintTop_toBottomOf="@+id/textView8"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="25dp" />
+        </android.support.constraint.ConstraintLayout>
+
+        <TextView
+            android:text="@string/DVRControl"
+            android:layout_width="203dp"
+            android:layout_height="26dp"
+            android:id="@+id/DVRControl"
+            android:textSize="22sp"
+            app:layout_constraintTop_toBottomOf="@+id/constraintLayout"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginStart="16dp"
+            app:layout_constraintLeft_toLeftOf="parent" />
+
+        <Button
+            android:text="@string/play"
+            android:layout_height="wrap_content"
+            android:id="@+id/play"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="16dp"
+            app:layout_constraintVertical_bias="0.0"
+            android:layout_marginStart="16dp"
+            android:layout_width="105dp"
+            android:onClick="buttonClickListener"
+            app:layout_constraintTop_toTopOf="@+id/stop" />
+
+        <Button
+            android:text="@string/stop"
+            android:layout_height="wrap_content"
+            android:id="@+id/stop"
+            app:layout_constraintRight_toLeftOf="@+id/pause"
+            app:layout_constraintLeft_toRightOf="@+id/play"
+            android:layout_width="0dp"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintTop_toBottomOf="@+id/powerDVR"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="16dp"
+            android:onClick="buttonClickListener"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <Button
+            android:text="@string/pause"
+            android:layout_height="wrap_content"
+            android:id="@+id/pause"
+            android:layout_width="88dp"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintRight_toRightOf="parent"
+            android:onClick="buttonClickListener"
+            app:layout_constraintTop_toBottomOf="@+id/powerDVR" />
+
+        <Button
+            android:text="@string/ff"
+            android:layout_width="160dp"
+            android:layout_height="48dp"
+            android:id="@+id/fastForward"
+            android:layout_marginStart="16dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/stop"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="16dp"
+            android:onClick="buttonClickListener"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <Button
+            android:text="@string/rw"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/fastRewind"
+            app:layout_constraintBottom_toTopOf="@+id/backToTV"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintTop_toBottomOf="@+id/pause"
+            app:layout_constraintVertical_bias="0.0"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintRight_toRightOf="parent"
+            android:onClick="buttonClickListener"
+            app:layout_constraintLeft_toRightOf="@+id/fastForward" />
+
+        <Button
+            android:text="@string/record"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/Record"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginStart="16dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintTop_toBottomOf="@+id/fastForward"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="16dp"
+            android:onClick="buttonClickListener"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <Button
+            android:text="@string/backToTV"
+            android:layout_width="336dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/backToTV"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="1dp"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginStart="16dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            android:layout_marginTop="8dp"
+            app:layout_constraintTop_toBottomOf="@+id/Record"
+            app:layout_constraintVertical_bias="0.90999997" />
+
+        <Switch
+            android:text="@string/power"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/powerDVR"
+            app:layout_constraintTop_toBottomOf="@+id/DVRControl"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginStart="16dp"
+            app:layout_constraintLeft_toLeftOf="parent" />
+
+        <android.support.constraint.Guideline
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/guideline"
+            app:layout_constraintGuide_begin="20dp"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteY="0dp"
+            tools:layout_editor_absoluteX="20dp" />
+
+    </android.support.constraint.ConstraintLayout>
+</RelativeLayout>
